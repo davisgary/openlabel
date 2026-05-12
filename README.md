@@ -1,6 +1,6 @@
 # OpenLabel
 
-Discover what's really inside packaged foods and drinks. 
+Discover what's really inside packaged food and drinks. 
 
 Use your device camera to scan a product barcode or manually enter the barcode number to retrieve nutrition facts, ingredient details (including additives and preservatives), and an overall product score. An integrated AI assistant answers follow-up questions about the product and its ingredients.
 
@@ -48,6 +48,6 @@ Note: Camera access requires HTTPS or localhost and user permission. For mobile 
 - AI features may rely on API keys (for example OpenAI). Check the `app/api/openai/route.ts` and the project environment variables, and add any required keys to your environment (for example via `.env.local`).
 - Product lookup can be backed by third-party product APIs; add keys or adjust the server routes in `app/api/product/route.ts` if necessary.
 
-## Data sources
+## Roadmap & Todos
 
-- The repository contains helper data files in `lib/` used for additive and e-number lookups.
+- [ ] Explore additional data sources for missing product data.
