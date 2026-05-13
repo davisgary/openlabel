@@ -3,7 +3,7 @@ import Footer from '../../components/Footer';
 import Scan from '../../components/Scan';
 
 export const metadata = {
-  title: 'Scan — Open Label',
+  title: 'Scan — OpenLabel',
   description: 'Use your camera or enter a barcode to get nutrition info about packaged products.',
 };
 
