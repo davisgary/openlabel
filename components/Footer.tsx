@@ -23,7 +23,7 @@ export default function Footer() {
     <Link
         href="/"
         className="font-medium text-primary-foreground hover:text-primary-foreground/70 text-center pb-1 block transition-colors duration-300 ease-out"
-        aria-label="Open Label"
+        aria-label="OpenLabel"
     >
       <LuBarcode className="w-10 h-10 mx-auto" />
     </Link>
@@ -37,7 +37,7 @@ export default function Footer() {
       </div>
 
       <p className="text-xs text-muted-foreground/70 font-medium text-center pb-2">All results are for educational purposes only and should not be considered medical advice.</p>
-      <p className="text-xs text-muted-foreground/70 font-medium text-center pb-4">© {new Date().getFullYear()} All rights reserved.</p>
+      <p className="text-xs text-muted-foreground/70 font-medium text-center pb-4">© {new Date().getFullYear()} OpenLabel. All rights reserved.</p>
     </footer>
   );
 }
