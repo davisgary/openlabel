@@ -15,11 +15,11 @@ export default function Header() {
     <>
       <header className="bg-transparent">
         <nav className="p-4" aria-label="Primary Navigation">
-          <div className="max-w-3xl mx-auto w-full flex items-center justify-between md:px-8">
+          <div className="max-w-4xl mx-auto w-full flex items-center justify-between md:px-8">
             {/* left: brand/link */}
             <div>
               <Link href="/" className="dark:text-primary-foreground text-sm font-semibold cursor-pointer hover:opacity-80 transition-opacity duration-300">
-                Open Label
+                OpenLabel
               </Link>
             </div>
 
