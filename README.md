@@ -50,4 +50,5 @@ Note: Camera access requires HTTPS or localhost and user permission. For mobile 
 
 ## Roadmap & Todos
 
+- [ ] Improve camera barcode auto detection.
 - [ ] Explore additional data sources for missing product data.
