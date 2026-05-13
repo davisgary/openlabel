@@ -1,7 +1,7 @@
 import Header from '../../components/Header';
 import Footer from '../../components/Footer';
 
-export const metadata = { title: 'Terms of Service — Open Label' };
+export const metadata = { title: 'Terms of Service — OpenLabel' };
 
 export default function TermsOfService() {
   return (
@@ -10,13 +10,13 @@ export default function TermsOfService() {
         <h1 className="text-3xl font-bold mb-6">Terms of Service</h1>
 
         <p className="mb-4">
-          Welcome to Open Label. By using our platform, you agree to the following terms and conditions. Please read them
+          Welcome to OpenLabel. By using our platform, you agree to the following terms and conditions. Please read them
           carefully.
         </p>
 
         <h2 className="text-xl font-semibold mt-8 mb-2">1. Introduction</h2>
         <p className="mb-4">
-          Open Label provides tools for SEO, language model integration, and website optimization. These terms govern your use
+          OpenLabel provides tools for SEO, language model integration, and website optimization. These terms govern your use
           of our services.
         </p>
 
@@ -34,13 +34,13 @@ export default function TermsOfService() {
 
         <h2 className="text-xl font-semibold mt-6 mb-2">4. Changes to Terms</h2>
         <p className="mb-4">
-          Open Label may update these Terms from time to time. Continued use of the platform after changes means you accept
+          OpenLabel may update these Terms from time to time. Continued use of the platform after changes means you accept
           the new terms.
         </p>
 
-        <h2 className="text-xl font-semibold mt-6 mb-2">5. Open Label — Educational Use & Medical Disclaimer</h2>
+        <h2 className="text-xl font-semibold mt-6 mb-2">5. OpenLabel — Educational Use & Medical Disclaimer</h2>
         <p className="mb-4">
-          The Open Label feature is provided for educational, informational, and exploratory purposes only. Results from
+          The OpenLabel feature is provided for educational, informational, and exploratory purposes only. Results from
           scans, analyses, or any automated suggestions are not intended to be, and must not be relied on, as medical,
           nutritional, dietary, legal, or professional advice. Always consult a qualified professional (for example, a
           licensed medical practitioner, dietitian, or pharmacist) regarding any health-related questions, diagnoses, or
@@ -48,7 +48,7 @@ export default function TermsOfService() {
         </p>
         <p className="mb-4">
           If you have a medical condition, are pregnant, nursing, taking medications, or have allergies, do not change or
-          stop any medical regimen based on information from Open Label. The company does not warrant the accuracy,
+          stop any medical regimen based on information from OpenLabel. The company does not warrant the accuracy,
           completeness, or usefulness of any information provided by the scan feature and disclaims liability for any
           decisions made based on scan results.
         </p>
@@ -58,12 +58,12 @@ export default function TermsOfService() {
           TO THE FULLEST EXTENT PERMITTED BY LAW, THE COMPANY, ITS AFFILIATES, OFFICERS, DIRECTORS, EMPLOYEES, AGENTS,
           AND LICENSORS WILL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES,
           INCLUDING LOSS OF PROFITS, DATA, USE, GOODWILL, OR OTHER INTANGIBLE LOSSES, ARISING OUT OF OR RELATING TO YOUR
-          USE OF, OR INABILITY TO USE, THE Open Label FEATURE, EVEN IF THE COMPANY HAS BEEN ADVISED OF THE POSSIBILITY
+          USE OF, OR INABILITY TO USE, THE OpenLabel FEATURE, EVEN IF THE COMPANY HAS BEEN ADVISED OF THE POSSIBILITY
           OF SUCH DAMAGES.
         </p>
         <p className="mb-4">
           In no event will the company's aggregate liability for any claim arising out of or relating to these Terms or the
-          Open Label feature exceed the amount paid by you to the company in the twelve (12) months preceding the event
+          OpenLabel feature exceed the amount paid by you to the company in the twelve (12) months preceding the event
           giving rise to liability, or fifty dollars ($50), whichever is greater.
         </p>
 

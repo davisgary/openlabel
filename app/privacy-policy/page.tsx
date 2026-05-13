@@ -2,7 +2,7 @@ import Header from '../../components/Header';
 import Footer from '../../components/Footer';
 
 export const metadata = {
-  title: 'Privacy Policy — Open Label',
+  title: 'Privacy Policy — OpenLabel',
 };
 
 export default function PrivacyPolicy() {
@@ -12,28 +12,28 @@ export default function PrivacyPolicy() {
         <h1 className="text-3xl font-bold mb-6">Privacy Policy</h1>
 
         <p className="mb-4">
-          Your privacy is important to us at Open Label. This policy explains how we collect, use, and protect your
+          Your privacy is important to us at OpenLabel. This policy explains how we collect, use, and protect your
           information when you use our platform.
         </p>
 
         <h2 className="text-xl font-semibold mt-8 mb-2">1. Information We Collect</h2>
         <p className="mb-4">
           We collect information you provide directly (for example, account signup details such as name and email) and
-          information generated when you use Open Label. Open Label-specific data may include images you upload, photos
+          information generated when you use OpenLabel. OpenLabel-specific data may include images you upload, photos
           of product packaging, barcodes/UPC codes, product names, ingredient lists or nutrition labels you submit or scan,
           and any text or responses produced by the scan feature.
         </p>
 
         <h2 className="text-xl font-semibold mt-6 mb-2">2. How We Use Information</h2>
         <p className="mb-4">
-          We use collected data to operate, maintain, and improve Open Label. This includes analyzing product data to
+          We use collected data to operate, maintain, and improve OpenLabel. This includes analyzing product data to
           generate educational information, powering machine learning models, improving accuracy of scans, and providing
           personalized features. We may also use your contact information to send administrative messages and updates.
         </p>
 
         <h2 className="text-xl font-semibold mt-6 mb-2">3. Third-Party Services & Model Providers</h2>
         <p className="mb-4">
-          Open Label may transmit scan data to third-party service providers for processing (for example, OCR services,
+          OpenLabel may transmit scan data to third-party service providers for processing (for example, OCR services,
           analytics providers, or language models). These providers process data on our behalf under contract and are
           only permitted to use it for the purposes we specify. If we use external AI providers to analyze or summarize
           product information, those requests may include the scanned text or images.
