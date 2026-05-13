@@ -6,8 +6,8 @@ import Accordion from '../../components/Accordion';
 type FAQItem = { question: string; answer: string };
 
 export const metadata = {
-  title: 'How it works — Open Label',
-  description: 'Learn how Open Label works: how to scan products, what the results mean, and FAQs.',
+  title: 'How it works — OpenLabel',
+  description: 'Learn how OpenLabel works: how to scan products, what the results mean, and FAQs.',
 };
 
 export default function HowItWorks() {
@@ -38,14 +38,15 @@ export default function HowItWorks() {
   return (
     <>
       <div className="flex flex-col min-h-screen">
+        <Header />
         <main className="flex-grow px-4 py-14">
           <div className="mx-auto w-full max-w-3xl">
             <div className="bg-card p-6 sm:p-8 rounded-lg border border-muted dark:border-muted/30">
               <div className="prose prose-slate dark:prose-invert text-sm text-primary-foreground">
-                <h1 className="text-2xl font-bold text-primary-foreground">How Open Label works</h1>
+                <h1 className="text-2xl font-bold text-primary-foreground">How OpenLabel works</h1>
 
                 <p>
-                  Open Label helps you quickly understand what's in packaged foods and
+                  OpenLabel helps you quickly understand what's in packaged foods and
                   beverages. Below you'll find a short overview of the process and some
                   practical tips for best results.
                 </p>
