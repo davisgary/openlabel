@@ -7,14 +7,14 @@ import { Analytics } from "@vercel/analytics/next"
 
 export const metadata: Metadata = {
   metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL || "http://localhost:3000"),
-  title: "Open Label",
-  description: "Unlock the power of Open Label.",
+  title: "OpenLabel",
+  description: "Unlock the power of OpenLabel.",
   openGraph: {
     type: "website",
     locale: "en_US",
-    title: "Open Label",
+    title: "OpenLabel",
     images: ["/meta.png"],
-    siteName: "Open Label",
+    siteName: "OpenLabel",
   },
 };
 
