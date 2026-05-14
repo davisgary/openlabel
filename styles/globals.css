@@ -29,11 +29,11 @@
   }
 
   .dark {
-    --background: 30 3% 14%;
+    --background: 30 3% 10%;
     --foreground: 0 0% 98%;
     --card: 39 4% 11%;
     --card-foreground: 0 0% 98%;
-    --input: 0 0% 56%;
+    --input: 0 0% 45%;
     --input-foreground: 0 0% 8%;
     --primary: 0 0% 0%;
     --primary-foreground: 0 0% 100%;
